@@ -1,4 +1,4 @@
-# EXP-2
+XP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
@@ -70,10 +70,15 @@ Tabulation for Load Test:
 
 Model graph:
 
-Open circuit characteristics
+Open circuit characteristics:
+
+![modelgraph1](https://github.com/user-attachments/assets/ca71e2ed-9efe-459d-9278-8d42c499ae1a)
+
 
   
 Load Characteristics:
- 
+
+ ![modelgraph2](https://github.com/user-attachments/assets/2a75c3b8-5bbb-4a20-b3db-1b4fca61f47b)
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
